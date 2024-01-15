@@ -1,0 +1,28 @@
+#mainContainer{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    flex-direction: column;
+    gap: 20px;
+    padding: 2rem  0;
+    margin-top:80px;
+   }
+
+   #resDiv{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 2px   5px black;
+    padding: 20px;
+    font-size: 13px;
+  
+   }
+
+   .dynamicValues{
+    color:#D63031;
+    font-family: monospace;
+    margin-left: 3px;
+
+   }
